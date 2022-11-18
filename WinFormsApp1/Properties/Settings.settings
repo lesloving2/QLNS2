@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WinFormsApp1.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="sqlCon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=WIN-05LMG9MN0KA\SQLEXPRESS;Initial Catalog=qlbhth2;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="sqlCon2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=DESKTOP-5D22BH6\SQLEXPRESS;Initial Catalog=qlbhth2;Integrated Security=True</Value>
+    </Setting>
+    <Setting Name="gioCheckIn" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="gioCheckOut" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">18</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
